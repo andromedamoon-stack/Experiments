@@ -25,5 +25,5 @@ sns.lmplot(
 plt.title("Countries with a higher GDP have higher life expectancy")
 plt.tight_layout()
 plt.show()
-If you run this, you'll see it plots each country in a similar way to our previous scatter plot, but also adds a line showing the correlation.
+
 
